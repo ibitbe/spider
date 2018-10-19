@@ -21,11 +21,11 @@ def real_time_box_office():
 def today_box_office():
     df = ts.day_boxoffice()
     f.write('# 当日票房\n')
-    table_head = '|影片名|排名|单日票房(万)|累计票房(万)|上映天数|口碑指数|\n|-|-|-|-|-|-|\n'
+    table_head = '|影片名|排名|单日票房(万)|累计票房(万)|上映天数|\n|-|-|-|-|-|\n'
     f.write(table_head)
     for i in range(len(df)):
         txt = '|' + df['MovieName'][i] + '|' + df['IRank'][i] + '|' + df['BoxOffice'][i] + '|' + \
-              df['SumBoxOffice'][i] + '|' + df['MovieDay'][i] + '|' + df['WomIndex'][i] + '|\n'
+              df['SumBoxOffice'][i] + '|' + df['MovieDay'][i] + '|\n'
         f.write(txt)
         pass
     f.write('\n\n')
