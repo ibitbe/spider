@@ -17,7 +17,7 @@ def btc8():
     btc8_df = pro.btc8(start_date=yesterday + ' 18:00:00', end_date=today, fields='title, url,content')
 
     f = open('e:\\btc.txt', 'w')
-    head = '''---\nlayout: post\ntitle:  "今日快讯"\ndate:   ''' + today + '''\ncategories: blog\nauther: "Mr.Chang"\n---\n'''
+    head = '''---\nlayout: post\ntitle:  "区块链快讯"\ndate:   ''' + today + '''\ncategories: blog\nauther: "Mr.Chang"\n---\n'''
     f.write(head)
     size = len(btc8_df)
     for i in range(0, 3):
