@@ -16,12 +16,15 @@ def btc8():
 
     btc8_df = pro.btc8(start_date=yesterday + ' 18:00:00', end_date=today, fields='title, url,content')
 
-    f = open('e:\\btc.txt', 'w')
     head = '''---\nlayout: post\ntitle:  "区块链快讯"\ndate:   ''' + today + '''\ncategories: blog\nauther: "Mr.Chang"\n---\n'''
     f.write(head)
+
     size = len(btc8_df)
     for i in range(0, 3):
         title = btc8_df['title'][i]
+        if '|' in title:
+            continue
+            pass
         url = btc8_df['url'][i]
         content = btc8_df['content'][i]
         txt = '[' + title + '](' + url + ')\n' + '>' + content + '\n\n\n'
@@ -30,16 +33,22 @@ def btc8():
 
     for i in range(3, size):
         title = btc8_df['title'][i]
+        if '|' in title:
+            continue
+            pass
         url = btc8_df['url'][i]
         txt = '[' + title + '](' + url + ')\n\n'
         f.write(txt)
         pass
 
-    f.close()
     pass
 
 
 if __name__ == '__main__':
+    f = open('blockchain.txt', 'w')
+
     btc8()
+
+    f.close()
 
     pass
