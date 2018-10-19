@@ -24,7 +24,7 @@ def btc8():
         title = btc8_df['title'][i]
         url = btc8_df['url'][i]
         content = btc8_df['content'][i]
-        txt = '[' + title + '](' + url + ')\n' + '>**' + content + '**\n\n\n'
+        txt = '[' + title + '](' + url + ')\n' + '>' + content + '\n\n\n'
         f.write(txt)
         pass
 
