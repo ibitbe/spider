@@ -47,7 +47,7 @@ def month_box_office():
 
 if __name__ == '__main__':
     f = open('movie.txt', 'w')
-    head = '''---\nlayout: post\ntitle: "电影票房"\ndate:   ''' + today + '''\ndescription: 最新的电影票房排行榜\n---\n'''
+    head = '''---\nlayout: post\ntitle: "电影票房"\ndate:   ''' + today[:10] + '''\ndescription: 最新的电影票房排行榜\n---\n'''
     f.write(head)
 
     real_time_box_office()

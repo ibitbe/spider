@@ -16,7 +16,7 @@ def btc8():
 
     btc8_df = pro.btc8(start_date=yesterday + ' 18:00:00', end_date=today, fields='title, url,content')
 
-    head = '''---\nlayout: post\ntitle: "区块链'''+today+'''快讯"\ndate: ''' + today + '''\ndescription: 这里有你想了解的区块链新闻\n---\n'''
+    head = '''---\nlayout: post\ntitle: "区块链'''+today[:10]+'''快讯"\ndate: ''' + today[10] + '''\ndescription: 这里有你想了解的区块链新闻\n---\n'''
     f.write(head)
 
     size = len(btc8_df)
