@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "区块链快讯"
+date:   2018-10-21 14:16:24
+categories: blog
+auther: "Mr.Chang"
+---
+[加密货币交易所安全报告：超半数未执行标准安全措施，Coinbase安全性排名第一](https://www.8btc.com/article/294723)
+>10月21日消息，ICO Rating上周对100家24小时交易额超过100万美元的加密货币交易所进行了分析，从四个角度对交易所进行了评估，分别是：控制台错误；用户账号安全；注册管理和域名安全；Web协议安全。分析发现，只有46%的交易所的安全参数指标符合要求，其余54%的加密货币交易所都没有执行标准的安全措施。按照安全级别排序显示，最安全的加密货币交易所前五名分别是Coinbase Pro、Kraken、BitMEX、GOPAX和CDPAX。另外一些知名交易所的排名为：币安位列第17位，OKEx位列第42位，火币位列第47位，BTCC位列第51位，Bitfinex位列第54位，双子星交易所位列第55位，OKCoin排名垫底。
+
+
+[美的集团副总裁：工业互联网尚处于与区块链等先进技术不断融合的阶段](https://www.8btc.com/article/294711)
+>10月20日消息，美的集团副总裁兼CIO张小懿日前表示，“从整个业态的发展来看，无论国内国外，现在工业互联网大家都在持续不断投入和探索的过程，跟先进技术（人工智能、大数据、区块链）不断融合。他认为，中国的制造业非常复杂，因为在搭建工业互联网平台过程中，最重要的是贴合中国实际，不断探索跟制造实践的融合。”
+
+
+[BM：很快会发布第一个需要硬分叉的EOS改进方案](https://www.8btc.com/article/294705)
+>据引力观察今日报道，EOS创始人BM表示，以太坊的下一次硬分叉，就像EOS像素大师的奖池，它将是永远延期的。增强一架飞行中的飞机的引擎比建造一架新飞机要慢。BM透露，他们正在为第一个需要硬分叉的EOS改进方案而工作，很快就会发布。分析认为，BM的方案将能够提升现在的EOS主网性能或功能。
+
+
+[Coinmarketcap网站行情出现延迟 致使其比特币均价明显低于实际价格](https://www.8btc.com/article/294701)
+
+[比原链段新星：Tensority算法的共识机器天然适用AI硬件加速](https://www.8btc.com/article/294689)
+
+[京津冀大数据教育区块链试验区正式启动建设](https://www.8btc.com/article/294684)
+
+[德勤EMEA区块链实验室 COO ：技术问题只占区块链的20%，80%在于如何让多学科团队聚在一起](https://www.8btc.com/article/294678)
+
+[数据日报：TC加速流出交易所，ETH流入交易所数持续增长](https://www.8btc.com/article/294676)
+
+[美国国家标准与技术研究所报告：6个简单的问题就可以识别空气币项目](https://www.8btc.com/article/294673)
+
+[日本大学与企业联盟探索使用区块链直接进行电力交易](https://www.8btc.com/article/294669)
+
+[数据显示：昨日ETH“新韭菜”占比增长明显](https://www.8btc.com/article/294667)
+
+[狗狗币创始人Jackson Palmer：机构入场将会把加密货币变成华尔街2.0](https://www.8btc.com/article/294664)
+
+[北京市科委与阿里健康启动医学人工智能开放创新应用平台，利用区块链等技术建设开放型科研引擎基础平台](https://www.8btc.com/article/294658)
+
+[比特币现金开发者推出可让文件与BCH链绑定的产品。](https://www.8btc.com/article/294655)
+
+[Bitfinex平台BTC/USD较其他主流交易所仍有约150美元溢价](https://www.8btc.com/article/294653)
+
+[巴西最大加密货币交易所进行裁员，重组营销和人力资源部门](https://www.8btc.com/article/294650)
+
+[场外做市商：做空不是比特币或以太坊价格下跌的原因](https://www.8btc.com/article/294644)
+
+[印度加密交易所P2P交易量正迅速增加](https://www.8btc.com/article/294639)
+
+[ Blockchain总裁：空投没有绕过证券法](https://www.8btc.com/article/294642)
+
+[货币转账公司Neteller宣布添加加密货币买卖功能](https://www.8btc.com/article/294640)
+
+[新加坡已成为加密货币和区块链爱好者的热点地区](https://www.8btc.com/article/294568)
+
+[世界银行：区块链网络系统可提高政府采购系统效率](https://www.8btc.com/article/294566)
+
+[ 美国场外交易公司六个月内数字货币贷款超五亿美元](https://www.8btc.com/article/294564)
+
+[ 委内瑞拉总统：工人们将开始接受Petro作为奖金](https://www.8btc.com/article/294560)
+
+[ 亚美尼亚政府主持开放大型数字货币采矿场](https://www.8btc.com/article/294562)
+
+[曼哈顿1590万美元大厦的卖家准备接受比特币](https://www.8btc.com/article/294558)
+
+[荷兰银行与三星SDS合作推出集装箱物流区块链试点](https://www.8btc.com/article/294556)
+
+[找回被盗加密货币的几率只有20%](https://www.8btc.com/article/294548)
+
+[Michael Moro：BTC是一种类似于股票市场的不相关资产](https://www.8btc.com/article/294544)
+
+[黑客出售巴西联邦公路警察登录信息，要求用比特币支付](https://www.8btc.com/article/294542)
+
+[马耳他数字货币代理机构认证考试仅40%通过](https://www.8btc.com/article/294540)
+
+[ 数字支付公司Square宣布推出PoS终端](https://www.8btc.com/article/294538)
+
+[比特币拥堵达到95%，费用仍相对较低](https://www.8btc.com/article/294536)
+
+[金融服务公司：65%推特网友选择加密货币付款](https://www.8btc.com/article/294534)
+
+[纽约一豪宅以现金或比特币卖出](https://www.8btc.com/article/294532)
+
+[伦敦金银市场协会将为使用区块链技术追踪黄金走势的公司提供审批程序](https://www.8btc.com/article/294518)
+
+[北欧大型金融集团涉嫌洗钱，该行曾于1月禁止员工交易加密货币](https://www.8btc.com/article/294516)
+
+[ 飞利浦研究负责人：医疗保健系统或受益于区块链技术](https://www.8btc.com/article/294508)
+
+[西班牙计划要求加密投资者披露资产](https://www.8btc.com/article/294506)
+
+[俄罗斯联邦储蓄银行CEO：区块链将在3至5年内“准备就绪”](https://www.8btc.com/article/294504)
+
+[广州：运用区块链等技术建成地方金融风险监测防控系统](https://www.8btc.com/article/294498)
+
+[朱之鑫：要通过区块链等提高规划的科学性、准确性和严谨性](https://www.8btc.com/article/294489)
+
+[巴比特晚间要闻一览](https://www.8btc.com/article/294407)
+
